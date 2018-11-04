@@ -1,0 +1,13 @@
+body{
+    background-image: url(img/background.jpg)
+}
+h1{
+    font-size: 75px;
+}
+h2{
+    font-size: 50px;
+}
+.container{
+    background-color:yellow;
+    color: black;
+}
